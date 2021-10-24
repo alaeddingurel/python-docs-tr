@@ -1,5 +1,7 @@
-"""Tool to merge cpython pot files to python-docs-fr po files for a
+"""Tool to merge cpython pot files to python-docs-tr po files for a
 given branch.
+This script is based on python-docs-fr. We may change some code.
+It may be modified for our projects requirements.
 """
 
 import re
