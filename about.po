@@ -7,28 +7,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-02 13:36+0300\n"
+"POT-Creation-Date: 2021-10-24 22:42+0300\n"
 "PO-Revision-Date: 2018-08-02 13:37+0300\n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.7.1\n"
-"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: tr_TR\n"
 
-#: ../cpython/Doc/about.rst:3
+#: about.rst:3
 msgid "About these documents"
 msgstr "Dökümanlar hakkında"
 
-#: ../cpython/Doc/about.rst:6
+#: about.rst:6
 msgid ""
 "These documents are generated from `reStructuredText`_ sources by `Sphinx`_, "
 "a document processor specifically written for the Python documentation."
 msgstr ""
 
-#: ../cpython/Doc/about.rst:15
+#: about.rst:15
 msgid ""
 "Development of the documentation and its toolchain is an entirely volunteer "
 "effort, just like Python itself.  If you want to contribute, please take a "
@@ -36,33 +36,33 @@ msgid ""
 "volunteers are always welcome!"
 msgstr ""
 
-#: ../cpython/Doc/about.rst:20
+#: about.rst:20
 msgid "Many thanks go to:"
 msgstr ""
 
-#: ../cpython/Doc/about.rst:22
+#: about.rst:22
 msgid ""
 "Fred L. Drake, Jr., the creator of the original Python documentation toolset "
 "and writer of much of the content;"
 msgstr ""
 
-#: ../cpython/Doc/about.rst:24
+#: about.rst:24
 msgid ""
 "the `Docutils <http://docutils.sourceforge.net/>`_ project for creating "
 "reStructuredText and the Docutils suite;"
 msgstr ""
 
-#: ../cpython/Doc/about.rst:26
+#: about.rst:26
 msgid ""
 "Fredrik Lundh for his `Alternative Python Reference <http://effbot.org/zone/"
 "pyref.htm>`_ project from which Sphinx got many good ideas."
 msgstr ""
 
-#: ../cpython/Doc/about.rst:32
+#: about.rst:32
 msgid "Contributors to the Python Documentation"
 msgstr ""
 
-#: ../cpython/Doc/about.rst:34
+#: about.rst:34
 msgid ""
 "Many people have contributed to the Python language, the Python standard "
 "library, and the Python documentation.  See :source:`Misc/ACKS` in the "
@@ -71,7 +71,7 @@ msgstr ""
 "Python diline, python standart kütüphanesine ve Python dökümantasyonuna bir "
 "çok insan katkıda bulunmuştur."
 
-#: ../cpython/Doc/about.rst:38
+#: about.rst:38
 msgid ""
 "It is only with the input and contributions of the Python community that "
 "Python has such wonderful documentation -- Thank You!"
